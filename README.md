@@ -1,2 +1,2 @@
 # Grc-projects
-Mini project using hipaa and nist 
+Mini project using hipaa and nist framework
